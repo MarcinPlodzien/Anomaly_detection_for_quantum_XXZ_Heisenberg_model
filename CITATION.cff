@@ -1,0 +1,22 @@
+# CITATION.cff
+
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it using the following metadata."
+title: "Anomaly Detection for Quantum XXZ Heisenberg Model"
+authors:
+  - family-names: "Płodzień"
+    given-names: "Marcin"
+    orcid: "https://orcid.org/0000-0002-0835-1644"  
+date-released: "2025-01-06"  
+version: "1.0.0"   
+repository-code: "https://github.com/MarcinPlodzien/Anomaly_detection_for_quantum_XXZ_Heisenberg_model"
+doi: "10.0000/zenodo.7654321"  # Replace with DOI if registered (e.g., via Zenodo)
+keywords:
+  - anomaly detection
+  - quantum mechanics
+  - XXZ Heisenberg model
+abstract: >
+  This repository contains code for anomaly detection in the quantum XXZ Heisenberg model.
+  It focuses on identifying phase boundary in finite-size one-dimensional XXZ model
+  with the help of unsupervised ML techniques based on autoencoder architecture. 
+  The implementations are designed to facilitate research in quantum mechanics and condensed matter physics.
